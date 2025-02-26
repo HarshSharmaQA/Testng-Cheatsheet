@@ -201,11 +201,5 @@ After execution, view the `test-output` folder for reports.
 ## Master TestNG Automation Framework
 Enhance your automation skills with TestNG and build robust test frameworks with different annotations and configurations.
 
-**Topics Covered:**
-- Comprehensive setup for TestNG
-- Parameterization and data-driven tests
-- Filtering, prioritization, and groups
-- Retry mechanism and assertions
-- Parallel reporting and logging
 
-[Enroll Now](https://www.kalamtech.com/ngt_tc_complete_bootcamp_for_beginners_novice_to_ninja)
+
